@@ -1,7 +1,10 @@
 /*
 This is a modified copy of a pintool file provided in Pin Kit.
 */
-
+/*
+- Call trace extraction analysis tool 
+- Utilizes native Pin
+*/
 #include "pin.H"
 #include "portability.H"
 #include <vector>
