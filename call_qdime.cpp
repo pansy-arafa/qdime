@@ -2,7 +2,10 @@
 This is a copy of a pintool provided in Pin Kit.
 This pintool file is modified to utilize QDime.
 */
-
+/*
+- Call trace extraction analysis tool 
+- Utilizes QDime to respect QoS performance threshld
+*/
 #include "pin.H"
 #include "portability.H"
 #include <vector>
